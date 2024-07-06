@@ -1,1 +1,1 @@
-![Dashboard]('./frontend/public/image.png')
+![Dashboard](./frontend/public/image.png)
